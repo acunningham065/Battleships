@@ -1,0 +1,18 @@
+F:\SSD\Projects\Battleships\Battleships\bin\Debug\Battleships.exe.config
+F:\SSD\Projects\Battleships\Battleships\bin\Debug\Battleships.exe
+F:\SSD\Projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.frm_Battleships.resources
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.Cache
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.exe
+F:\SSD\Projects\Battleships\Battleships\obj\Debug\Battleships.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.frm_Battleships.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.Cache
